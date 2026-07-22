@@ -1,6 +1,6 @@
 package chapter2;
 
-public class datatypes {
+public class M1_datatypes {
     public static void main(String[] args) {
         // Intergers
 

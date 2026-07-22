@@ -1,6 +1,6 @@
 package chapter2;
 
-public class casting {
+public class M2_casting {
     public static void main(String[] args) {
         // Implicit COnversion --> destination var should be have more width than source var 
         
