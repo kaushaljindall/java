@@ -1,4 +1,4 @@
-package chpater5;
+package chapter5;
 
 class Student{
     int rollNo;

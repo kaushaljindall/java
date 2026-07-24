@@ -1,4 +1,4 @@
-package questions;
+package questions.arrays;
 
 public class ques1 {
     public static void main(String[] args) {
