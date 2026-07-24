@@ -14,5 +14,7 @@ public class input {
 
         float percentage = sc.nextFloat();
         System.out.println(percentage);
+
+        sc.close();
     }
 }

@@ -14,5 +14,6 @@ public class M2_loopsProblem {
         }
 
         System.out.println(ans);
+        sc.close();
     }
 }
