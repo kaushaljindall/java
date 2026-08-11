@@ -11,8 +11,6 @@ public class ques2 {
             System.out.print(name.substring(i, j)+ " ");
                   
             }
-
-
             // a ab abc abcd b bc bcd c cd d 
         }
     }
