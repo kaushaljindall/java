@@ -16,7 +16,7 @@ try{
     System.out.println(e.getMessage());
 }
     sc.close();
-   }
+   } 
 }
 
 class myExpection extends Exception{
